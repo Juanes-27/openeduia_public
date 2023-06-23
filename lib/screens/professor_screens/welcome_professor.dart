@@ -1,0 +1,21 @@
+import 'package:flutter/material.dart';
+import 'package:Openedu.IA/widgets/widgets.dart';
+
+class WelcomeProfessorScreen extends StatelessWidget {
+  const WelcomeProfessorScreen({Key? key}) : super(key: key);
+
+  @override
+  Widget build(BuildContext context) {
+    return WillPopScope(
+      onWillPop: () async => false,
+      child: Scaffold(
+          backgroundColor: Colors.white,
+          body: Stack(
+            children: const [
+              CustomWelcomeProfessorBackground(),
+              CustomWelcomeProfessorBody()
+            ],
+          )),
+    );
+  }
+}

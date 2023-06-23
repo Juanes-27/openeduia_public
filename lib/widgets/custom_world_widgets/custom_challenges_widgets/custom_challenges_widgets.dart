@@ -1,0 +1,2 @@
+export 'package:Openedu.IA/widgets/custom_world_widgets/custom_challenges_widgets/custom_pacman_challenge_widgets/custom_pacman_challenge_widgets.dart';
+export 'package:Openedu.IA/widgets/custom_world_widgets/custom_challenges_widgets/custom_memory_game_widgets/custom_memory_game_widgets.dart';
