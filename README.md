@@ -1,4 +1,15 @@
 # openeduia
+## Objetivo 
+
+Desarrollar un aplicativo para la enseñanza aprendizaje de conceptos básicos de inteligencia artificial mediante estrategias de gamificación bajo un entorno de programación multiplataforma.
+## Justificación
+
+Acorde al planteamiento del problema, existe la necesidad en Colombia de reforzar el aprendizaje en STEM para
+ayudar a mitigar las brechas de educación presentes en el país. Por lo tanto, la implementación de un aplicativo
+software como posible herramienta de apoyo mediante el uso de métodos de gamificación modernos es una opción viable para atacar esta problemática. Además, a través de la implementación de técnicas de inteligencia artificial como
+instrumento de soporte para facilitar el proceso de enseñanza de tópicos académicos y el uso de videojuegos como
+herramienta de aprendizaje, se puede incrementar la motivación y la dedicación de los estudiantes con respecto al uso
+de técnicas tradicionales de enseñanza, convirtiéndose en facilitadores de los procesos de enseñanza-aprendizaje.
 
 ## Videos de Casos de Prueba
 
